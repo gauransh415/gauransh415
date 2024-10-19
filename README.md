@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=35&pause=1000&color=F77B3B&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Gauransh.)](https://git.io/typing-svg)
+# Hi, I'm Gauransh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<h2>👨‍💻&nbsp;About Me</h2>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 Pre-final year Comp Sci student who loves to find the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
