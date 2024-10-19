@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&size=35&pause=1000&color=F77B3B&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Gauransh.)](https://git.io/typing-svg)
 
+<h2>👨‍💻&nbsp;About Me</h2>
+
+Pre-final year Comp Sci student who loves to find the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
 - 🔭 I’m currently building something amazing.
@@ -72,5 +75,3 @@
 <a href="https://app.warp.dev/referral/66LJZZ" target="_blank"><img height="23px" src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white"></a>
 <a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a><br><br>
 
-
-[![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
