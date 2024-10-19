@@ -11,9 +11,8 @@
 - ⚡ Fun fact: Je connais un peu le français et l'espagnol
 
 
-<details>
- <summary>Tech I use? </summary>
-<!-- <h2>🛠️&nbsp;Tools & Languages</h2> -->
+
+ <h3>Tech I use?</h3>
 
 - **Deep Learning Libraries/Frameworks** <br>
 <a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
@@ -73,6 +72,5 @@
 <a href="https://app.warp.dev/referral/66LJZZ" target="_blank"><img height="23px" src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white"></a>
 <a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a><br><br>
 
-</details>
 
 [![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
