@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-Pre-final year Comp Sci student who loves to find the latest and greatest in tech. Chai lover and hip-hop connoisseur.
+Pre-final year Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
 - 🔭 I’m currently building something amazing.
