@@ -9,7 +9,7 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 - 🌱 I’m currently learning Clean Architecture.
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Cats. 
-- 📫 How to reach me:  Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
+- 📫 Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Je connais un peu le français et l'espagnol
 
