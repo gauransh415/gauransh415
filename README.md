@@ -6,12 +6,9 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 
 
 - 🔭 I’m currently building something amazing.
-- 🌱 I’m currently learning Clean Architecture.
-- 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Cats. 
 - 📫 Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Je connais un peu le français et l'espagnol
 
 
 
@@ -52,6 +49,7 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 <a href="https://www.mysql.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.sqlite.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+
 
 - **Cloud Platforms** <br>
 <a href="https://aws.amazon.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
