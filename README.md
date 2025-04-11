@@ -18,14 +18,12 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 <a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
 <a href="https://pytorch.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="https://opencv.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
 
 - **Machine Learning Libraries/Frameworks** <br>
 <a href="https://numpy.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href="https://scikit-learn.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 <a href="https://matplotlib.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Matplotlib-0052CC?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
-<a href="https://scipy.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
 
 - **Languages** <br>
 <a><img height="23px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -49,12 +47,6 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 <a href="https://www.mysql.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.sqlite.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-
-
-- **Cloud Platforms** <br>
-<a href="https://aws.amazon.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-<a href="https://www.cloudflare.com/en-gb/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
-<a href="https://cloud.google.com/?hl=en" target="_blank"><img height="23px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 
 - **IDEs** <br>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
