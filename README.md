@@ -60,4 +60,6 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 <a><img height="23px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 
+
+
 [![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
