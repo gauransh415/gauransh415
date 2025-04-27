@@ -48,13 +48,6 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 <a href="https://www.sqlite.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
-- **IDEs** <br>
-<a href="https://code.visualstudio.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-<a href="https://developer.android.com/studio" target="_blank"><img height="23px" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank"><img height="23px" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
-<a href="https://colab.research.google.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-
 - **Operating Systems** <br>
 <a><img height="23px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
