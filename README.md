@@ -54,4 +54,7 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 
 
 
+[![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauransh415&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
