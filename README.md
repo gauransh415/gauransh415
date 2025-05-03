@@ -5,7 +5,7 @@
 Pre-final year Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
-- 🔭 I’m currently building something amazing.
+- 🔭 I’m currently trying to build a career.
 - 💬 Ask me about Cats. 
 - 📫 Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
 - 😄 Pronouns: he/him
