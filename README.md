@@ -14,7 +14,6 @@ Pre-final year Comp Sci student who loves to find out about the latest and great
 - **Deep Learning Libraries/Frameworks** <br>
 <a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
 <a href="https://pytorch.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
 - **Machine Learning Libraries/Frameworks** <br>
 <a href="https://numpy.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
