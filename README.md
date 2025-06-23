@@ -1,6 +1,6 @@
 # Hi, I'm Gauransh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Pre-final year Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
+Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
 - 💬 Ask me about Cats. 
