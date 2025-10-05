@@ -1,5 +1,4 @@
-# Hi, I'm Gauransh! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-
+# Hi, I'm Gauransh!
 Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
