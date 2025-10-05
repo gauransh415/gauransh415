@@ -1,4 +1,4 @@
-# Hi, I'm Gauransh! [![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@gauransh415)
+# Hi, I'm Gauransh! 
 Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
