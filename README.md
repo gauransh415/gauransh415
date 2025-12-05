@@ -2,13 +2,13 @@
 Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
 
 
-- 💬 Ask me about Cats. 
-- 📫 Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
-- 😄 Pronouns: he/him
+- Ask me about Cats. 
+- Email me at <a href="mailto:gnash4451@gmail.com" style="color: yellowgreen">gnash4451@gmail.com</a>
+- Pronouns: he/him
 
 
-
- <h3>Tech I use?</h3>
+<!--
+<h3>Tech I use?</h3>
 
 - **Deep Learning Libraries/Frameworks** <br>
 <a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
@@ -45,7 +45,7 @@ Comp Sci student who loves to find out about the latest and greatest in tech. Ch
 - **Operating Systems** <br>
 <a><img height="23px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-<a><img height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a><img height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> -->
 
 [![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
 
