@@ -47,6 +47,4 @@ Comp Sci student who loves to find out about the latest and greatest in tech. Ch
 <a><img height="23px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> -->
 
-[![An image of @gauransh415's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauransh415)](https://holopin.io/@gauransh415)
-
 [![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauransh415&bg_color=000000&color=94c8ff&line=febdff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
