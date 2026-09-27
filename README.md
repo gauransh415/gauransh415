@@ -1,5 +1,5 @@
 # Hi, I'm Gauransh! 
-Comp Sci student who loves to find out about the latest and greatest in tech. Chai lover and hip-hop connoisseur.
+Engineer who loves discovering the latest and greatest in tech. Chai lover, hip-hop connoisseur and cinephile.
 
 
 - Ask me about Cats. 
@@ -46,5 +46,3 @@ Comp Sci student who loves to find out about the latest and greatest in tech. Ch
 <a><img height="23px" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> -->
-
-[![Gauransh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gauransh415&bg_color=000000&color=94c8ff&line=febdff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
